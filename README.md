@@ -1,1 +1,1 @@
-# Linear Regression (Single Variable) - Canada' Per Capita Income
+# Linear Regression (Single Variable) - Canada's Per Capita Income
